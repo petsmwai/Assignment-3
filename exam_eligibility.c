@@ -1,4 +1,4 @@
-/*
+oooo/*
 Reg:CT100/G/26127/25
 Name:Peterson Mwai
 description:a code to exam eligibility 
